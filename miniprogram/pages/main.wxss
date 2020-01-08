@@ -1,0 +1,6 @@
+/* miniprogram/pages/main.wxss */
+.title
+{
+  color: red;
+  font-size: 30px;
+}
